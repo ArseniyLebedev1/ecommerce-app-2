@@ -1,0 +1,29 @@
+.wrapper {
+  align-items: center;
+  gap: 40px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.productInfoWrapper {
+  border: 1px solid;
+  width: 500px;
+  height: auto;
+  /* gap: 50px; */
+  padding: 30px;
+  margin: 0 auto;
+}
+
+.info {
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.goBackButton {
+    font-size: 30px;
+    border: 2px solid;
+    padding: 10px 40px;
+    cursor: pointer;
+}

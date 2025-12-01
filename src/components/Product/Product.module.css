@@ -1,0 +1,10 @@
+.product {
+    text-align: center;
+    border: 1px solid;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.productTitle {
+    font-size: 30px;
+}
