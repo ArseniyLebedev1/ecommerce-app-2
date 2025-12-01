@@ -6,7 +6,7 @@ import { BrowserRouter } from "react-router-dom";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/ecommerce-app-2/products">
       <App />
     </BrowserRouter>
   </StrictMode>
